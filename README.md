@@ -1,1 +1,3 @@
-# angular-basic
+# angular-basic-- Notes and link--- Questions for Interview......
+# npm Install -- command Details :- ( https://docs.npmjs.com/cli/install )
+# E2E Testing with the Angular CLI and Protractor --- 
